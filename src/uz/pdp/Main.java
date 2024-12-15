@@ -6,5 +6,6 @@ public class Main {
         System.out.println("2 - qator");
         System.out.println("3 - qator");
         System.out.println("4 - qator");
+        System.out.println("5 - qator");
     }
 }
